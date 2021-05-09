@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNovWU92ScInA+/vfVsd4QO8AuzeVhu3bymgOcZvsP89iEguruycxnqiXsyaQGnELhbJklC9X+xSXRc8XTvdrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Radells\\source\\repos\\Delivery Service\\Delivery Service\\Delivery Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Radells\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Radells\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
